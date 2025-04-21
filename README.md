@@ -1,10 +1,67 @@
-# GIAIC-Q3-Class-2
 🚀 Quarter 3 | Class 2 | Python Split Class Recap 🔥
-An exciting session where we explored Operators, List Methods & String Splitting in Python! 🐍✨
-✅ Operators & Functions: join(), replace(), len(), id(), str(), bool(), dict(), __init__() – mastering their practical use!
-✅ List Methods: append(), extend(), insert(), remove(), pop() – efficiently managing list elements.
-✅ Data Structures: Lists, Dictionaries, Tuples, Sets, Bytes, Bytearray – understanding their role in Python.
-✅ String Splitting: Simplifying data manipulation with .split() for efficient text handling.
-✅ Google Colab: Easy sharing & collaboration tips to streamline workflows! 📂🔗
-Ready to take your coding skills to the next level? Let’s keep learning & growing! 💡👩‍💻
-hashtag#Shift : Sat Afternoon
+An exciting session where we explored key concepts like Operators, List Methods, and String Splitting in Python! 🐍✨
+
+✅ Operators & Built-in Functions
+Mastered the practical use of:
+
+join()
+
+replace()
+
+len()
+
+id()
+
+str()
+
+bool()
+
+dict()
+
+__init__()
+
+✅ List Methods
+Efficiently managed list elements using:
+
+append()
+
+extend()
+
+insert()
+
+remove()
+
+pop()
+
+✅ Data Structures
+Understood the role and usage of:
+
+Lists
+
+Dictionaries
+
+Tuples
+
+Sets
+
+Bytes
+
+Bytearray
+
+✅ String Splitting
+Simplified data manipulation using:
+
+.split() for efficient text handling and parsing.
+
+✅ Google Colab Tips
+🧠 Easy sharing & collaboration tips to streamline your workflow on:
+
+Google Colab
+
+🌟 Ready to Level Up?
+Let’s keep learning and growing together!
+
+💡 Shift: Saturday Afternoon
+
+👩‍💻✨ Happy Coding!
+
